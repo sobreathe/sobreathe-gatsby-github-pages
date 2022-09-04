@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkso_breathe=self.webpackChunkso_breathe||[]).push([[678],{6558:function(e,n,t){t.r(n),t.d(n,{Head:function(){return u}});var r=t(7294);n.default=function(){return r.createElement("main",null,"brb ☺️")};var u=function(){return r.createElement("title",null,"Home Page")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-ec207cb5f885ee8e51d6.js.map

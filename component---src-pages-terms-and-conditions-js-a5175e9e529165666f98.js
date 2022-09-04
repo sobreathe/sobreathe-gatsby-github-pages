@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkso_breathe=self.webpackChunkso_breathe||[]).push([[815],{7447:function(e,t,n){n.r(t);var r=n(7294);t.default=function(){return r.createElement(r.Fragment,null)}}}]);
+//# sourceMappingURL=component---src-pages-terms-and-conditions-js-a5175e9e529165666f98.js.map
